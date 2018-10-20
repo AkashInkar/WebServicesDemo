@@ -3,7 +3,7 @@
 # WebServiceExample
 <a href="WebServiceExample.apk" download>Click to Download the APK file!</a>
 #### **Hi!,**  
-I am Ismail. This is my first repository. I've just started to explore the world of android development and I'm already loving it. I have created this pretty basic app just for learning purpose. It uses rest api client [**Retrofit**](http://square.github.io/retrofit/) to retreive data from the internet and display it in the app.  
+I am Akash. This is my first repository. I've just started to explore the world of android development and I'm already loving it. I have created this pretty basic app just for learning purpose. It uses rest api client [**Retrofit**](http://square.github.io/retrofit/) to retreive data from the internet and display it in the app.  
 The app is divided in two parts.  
 1. Movie Response  
 This displays a small list of superheroes with images and some details in a [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview). I have used [Glide library](https://github.com/bumptech/glide) to load the images. When your click on any item in recyclerview it displays another activity that displays full information of the selected super hero.
